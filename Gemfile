@@ -9,9 +9,8 @@ group :development do
 	gem 'sqlite3', '1.3.8'
 end
 
-# Use SCSS for stylesheets along with Bootstarp as framework
+# Use SCSS for stylesheets
 gem 'sass-rails', '4.0.1'
-gem 'bootstrap-sass', '~> 3.1.1'
 
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '2.1.1'
